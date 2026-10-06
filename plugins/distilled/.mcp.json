@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "distilled": {
+      "type": "http",
+      "url": "https://mcp.distilled.cx/mcp"
+    }
+  }
+}

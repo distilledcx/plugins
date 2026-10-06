@@ -1,0 +1,12 @@
+{
+  "name": "distilled",
+  "owner": { "name": "Distilled", "url": "https://distilled.cx" },
+  "description": "Distilled's plugins for agents that drive cloud Android phones.",
+  "plugins": [
+    {
+      "name": "distilled",
+      "source": "./plugins/distilled",
+      "description": "Drive Distilled's cloud Android phones from a conversation, and watch the phone's screen live while the agent works on it."
+    }
+  ]
+}

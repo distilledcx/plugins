@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "distilled",
+  "version": "1.1.0",
+  "description": "Drive Distilled's cloud Android phones from a conversation, and watch the phone's screen live while the agent works on it.",
+  "author": { "name": "Distilled", "url": "https://distilled.cx" },
+  "homepage": "https://distilled.cx",
+  "repository": "https://github.com/distilledcx/plugins",
+  "license": "MIT",
+  "keywords": ["android", "phones", "mobile", "testing", "automation"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Distilled",
+        "shortDescription": "Drive cloud Android phones and watch them live",
+        "longDescription": "Distilled runs real Android phones in the cloud. Connect your workspace, and the agent can list your phones, install apps, tap, swipe and type, read the screen, and hand longer jobs to Distilled's own agent, while the phone's screen plays live in the conversation.",
+        "developerName": "Distilled",
+        "category": "Developer Tools",
+        "capabilities": ["Read", "Write"],
+        "websiteURL": "https://distilled.cx",
+        "privacyPolicyURL": "https://distilled.cx/privacy/",
+        "termsOfServiceURL": "https://distilled.cx/terms/",
+        "defaultPrompt": [
+          "List my Distilled phones, then show me the first running one live.",
+          "Open Settings on my phone and turn on dark theme while I watch."
+        ],
+        "brandColor": "#171717",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/logo.png"
+      }
+    }
+  }
+}
