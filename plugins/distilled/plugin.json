@@ -13,7 +13,7 @@
       "interface": {
         "displayName": "Distilled",
         "shortDescription": "Drive cloud Android phones and watch them live",
-        "longDescription": "Distilled runs real Android phones in the cloud. Connect your workspace, and the agent can list your phones, install apps, tap, swipe and type, read the screen, and hand longer jobs to Distilled's own agent, while the phone's screen plays live in the conversation.",
+        "longDescription": "Distilled runs cloud Android phones that identify as a Google Pixel 7, 7 Pro or 7a. Connect your workspace, and the agent can list your phones, install apps, tap, swipe and type, read the screen, and hand longer jobs to Distilled's own agent, while the phone's screen plays live in the conversation.",
         "developerName": "Distilled",
         "category": "Developer Tools",
         "capabilities": ["Read", "Write"],
