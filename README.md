@@ -1,6 +1,6 @@
 # Distilled plugins
 
-[Distilled](https://distilled.cx) runs real Android phones in the cloud. The `distilled` plugin lets Claude, ChatGPT,
+[Distilled](https://distilled.cx) runs cloud Android phones that identify as a Google Pixel 7, 7 Pro or 7a. The `distilled` plugin lets Claude, ChatGPT,
 Claude Code and Codex drive them from a conversation, with the phone's screen playing live while the agent works.
 
 Every install signs in the same way: the first time the agent needs Distilled, your browser opens, you sign in, pick a

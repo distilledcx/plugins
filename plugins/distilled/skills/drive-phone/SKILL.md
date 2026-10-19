@@ -5,7 +5,7 @@ description: Drive a Distilled cloud Android phone with the distilled MCP tools 
 
 # Drive a phone
 
-The `distilled` MCP server drives real Android phones in the cloud. The first call asks the person to sign in to
+The `distilled` MCP server drives Distilled's cloud Android phones. The first call asks the person to sign in to
 Distilled in their browser and approve the workspace; nothing has to be pasted.
 
 1. Pick the phone with `list_phones`. A stopped phone needs `start_phones` and a minute or two to boot.
