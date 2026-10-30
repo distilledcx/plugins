@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "distilled",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Drive Distilled's cloud Android phones from a conversation, and watch the phone's screen live while the agent works on it.",
   "author": { "name": "Distilled", "url": "https://distilled.cx" },
   "homepage": "https://distilled.cx",
